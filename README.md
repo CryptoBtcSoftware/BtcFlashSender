@@ -18,10 +18,10 @@ With the standard license, users can simulate daily transaction volumes of up to
 
 ## Support for all Bitcoin address formats, including Legacy and SegWit
 
-Simulated BTC and USDT can be displayed and transferred across supported test wallets
+### Simulated BTC and USDT can be displayed and transferred across supported test wallets
 
 - For licensing details, contact @CryptoFlashG on Telegram.
 
-# Telegram username: [CryptoFlashG](https://t.me/CryptoFlashG)
+## Telegram username: [CryptoFlashG](https://t.me/CryptoFlashG)
 
 
